@@ -6,3 +6,5 @@ img{display:block;margin-left:auto;margin-right:auto;width:20%; border: 8px soli
 Blockquote{color:blanchedalmond;font-size: 20px; text-align:left}
 Ul{color:chartreuse;font-size: 30px; text-align:left}
 #Rappers{background-color: mediumpurple;Border: 4px solid black; padding: 20px; width: auto;}
+.Awesomebutton {
+    background-color: darkred; color: white;}
