@@ -1,1 +1,7 @@
-Body{background-color: rgba(3, 20, 3, 0);color:rgb(174, 4, 4); font-family:Helvetica, sans-serif;}
+Body{background-image: url("Galaxy.gif"); background-size: cover; background-repeat: no-repeat}
+h1{color:rgb(75, 2, 59);font-size: 48px; font-family:Courier New, monospace; text-align:center}
+h2{color:skyblue;border-bottom: 2px solid skyblue}
+P{color:blanchedalmond;font-size: 40px; text-align:center}
+img{display:block;margin-left:auto;margin-right:auto;width:20%; border: 8px solid rgb(8, 8, 8)}
+Blockquote{color:blanchedalmond;font-size: 20px; text-align:left}
+Ul{color:chartreuse;font-size: 30px; text-align:left}
