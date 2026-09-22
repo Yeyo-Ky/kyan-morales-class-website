@@ -2,7 +2,7 @@ Body{background-image: url("Images/Asteroid\ belt.jpg"); background-size: cover;
 h1{color:rgb(0, 0, 0);font-size: 48px; font-family:Courier New, monospace; text-align:center}
 h2{color:skyblue;border-bottom: 2px solid skyblue}
 P{color:blanchedalmond;font-size: 40px; text-align:center}
-img{display:block;margin-left:auto;margin-right:auto;width:20%; border: 8px solid rgb(8, 8, 8)}
+img{display:block;margin-left:auto;margin-right:auto;margin-top:10px;width:20%; border: 8px solid rgb(8, 8, 8)}
 Blockquote{color:blanchedalmond;font-size: 20px; text-align:left}
 Ul{color:chartreuse;font-size: 30px; text-align:left}
 #Rappers{background-color: mediumpurple;Border: 4px solid black; padding: 20px; width: 160px;margin-top:10}
